@@ -1,0 +1,30 @@
+
+
+font-family: 'Roboto', sans-serif;
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    
+            
+    
+}
+.el-obacity{
+    
+    background-color: rgba(0,0,0,0.5);
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;   
+    
+    
+}
+
+.el-nav{
+    position: absolute;
+    background: none;
+    z-index: 1;
+    background-color: rgba(0,0,0,0.5);
+    width: 100%;
+    padding: 1px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
